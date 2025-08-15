@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url(amazon_logo.jfif);
+    background-image:url(amazon_logo.jfif);
     height: 50px;
     width: 100px;
     background-size: cover;
